@@ -40,4 +40,13 @@ class LinkendList {
         }
         return count;
     }
+
+
+
+
+
+
+
+
+    
 }
